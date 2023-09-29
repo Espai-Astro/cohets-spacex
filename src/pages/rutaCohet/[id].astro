@@ -1,0 +1,27 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { fetchCohetAmbId, fetchCohets } from '../../services/fetchAPI';
+
+const { id } = Astro.params;
+console.log('id -->', { id });
+
+let cohet = null;
+if (id) {
+  cohet = await fetchCohetAmbId({ id });
+}
+
+/* export async function getStaticPaths() {
+  const cohets = await fetchCohets();
+  return cohets.map((cohet) => ({
+    params: { id: cohet.id },
+  }));
+} */
+---
+
+<Layout title={`Llançament # ${id}`}>
+  <article class='flex gap-y-4 flex-col'>
+    <img class='w-52 h-auto' src={cohet?.links.patch.small} alt={cohet?.name} />
+    <h2 class='text-4xl font-bold'>Llançament #{cohet?.flight_number}</h2>
+    <p class='text-lg'>{cohet?.details}</p>
+  </article>
+</Layout>

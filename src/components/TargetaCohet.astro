@@ -12,22 +12,31 @@ const textExit = exit ? 'Èxit' : 'Fracàs';
 ---
 
 <a
-  href={`/launch/${id}`}
-  class='rounded-lg border shado-md bg-gray-800 border-gray-700 hover:scale-105 hover:bg-gray-700 hover:border-gray-500 transition flex flex-col'>
+  href={`/rutaCohet/${id}`}
+  title={`Llançament ${numeroLlançament}, id: ${id}`}
+  class='rounded-lg border shadow-md bg-gray-800 border-gray-700 hover:scale-105 hover:bg-gray-700 hover:border-gray-500 transition flex flex-col'>
   <picture class='flex justify-center p-4'>
     <img src={imatge} alt={`Imatge llançament número ${id}`} />
   </picture>
   <header class='p-4 flex-grow'>
     <span
-      class={`text-xs font-semibold mr-2 px-2.5 py-0.5 rounded ${
-        exit ? 'bg-green-200 text-green-900' : 'bg-red-200 text-red-900'
-      } `}>{textExit}</span
+      class:list={[
+        'text-xs font-semibold mr-2 px-2.5 py-0.5 rounded',
+        {
+          'bg-green-200 text-green-900': exit,
+          'bg-red-200 text-red-900': !exit,
+        },
+      ]}>{textExit}</span
     >
     <h2 class='my-2 text-2xl font-bold tracking-tight text-white'>
       Llançament #{numeroLlançament}
     </h2>
     <p class='mb-4 font-light text-gray-400'>
-      {detalls !== null && detalls?.length > 100 ? detalls.slice(0, 100) + '...' : detalls}
+      {
+        detalls !== null && detalls?.length > 100
+          ? detalls.slice(0, 100) + '...'
+          : detalls
+      }
     </p>
   </header>
 </a>
