@@ -91,27 +91,16 @@
 			"reason": "merlin engine failure"
 		},
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/40/e3/GypSkayF_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/3c/0e/T8iJcSN3_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/40/e3/GypSkayF_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/3c/0e/T8iJcSN3_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
 			"presskit": null,
-<<<<<<< HEAD
 			"article_link": "https://www.space.com/2196-spacex-inaugural-falcon-1-rocket-lost-launch.html",
 			"wikipedia": "https://en.wikipedia.org/wiki/DemoSat",
 			"video_link": "https://www.youtube.com/watch?v=0a_00nJ_Y88",
-=======
-			"article_link": "https:/www.space.com/2196-spacex-inaugural-falcon-1-rocket-lost-launch.html",
-			"wikipedia": "https:/en.wikipedia.org/wiki/DemoSat",
-			"video_link": "https:/www.youtube.com/watch?v=0a_00nJ_Y88",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "0a_00nJ_Y88",
 			"flickr_images": []
 		},
@@ -214,27 +203,16 @@
 			"reason": "harmonic oscillation leading to premature engine shutdown"
 		},
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/be/e7/iNqsqVYM_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/4f/e3/I0lkuJ2e_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/be/e7/iNqsqVYM_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/4f/e3/I0lkuJ2e_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
 			"presskit": null,
-<<<<<<< HEAD
 			"article_link": "https://www.space.com/3590-spacex-falcon-1-rocket-fails-reach-orbit.html",
 			"wikipedia": "https://en.wikipedia.org/wiki/DemoSat",
 			"video_link": "https://www.youtube.com/watch?v=Lk4zQ2wP-Nc",
-=======
-			"article_link": "https:/www.space.com/3590-spacex-falcon-1-rocket-fails-reach-orbit.html",
-			"wikipedia": "https:/en.wikipedia.org/wiki/DemoSat",
-			"video_link": "https:/www.youtube.com/watch?v=Lk4zQ2wP-Nc",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "Lk4zQ2wP-Nc",
 			"flickr_images": []
 		},
@@ -369,27 +347,16 @@
 			"reason": "residual stage-1 thrust led to collision between stage 1 and stage 2"
 		},
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/4b/bd/d8UxLh4q_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/3d/86/cnu0pan8_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/4b/bd/d8UxLh4q_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/3d/86/cnu0pan8_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
 			"presskit": null,
-<<<<<<< HEAD
 			"article_link": "http://www.spacex.com/news/2013/02/11/falcon-1-flight-3-mission-summary",
 			"wikipedia": "https://en.wikipedia.org/wiki/Trailblazer_(satellite)",
 			"video_link": "https://www.youtube.com/watch?v=v0w9p3U8860",
-=======
-			"article_link": "http:/www.spacex.com/news/2013/02/11/falcon-1-flight-3-mission-summary",
-			"wikipedia": "https:/en.wikipedia.org/wiki/Trailblazer_(satellite)",
-			"video_link": "https:/www.youtube.com/watch?v=v0w9p3U8860",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "v0w9p3U8860",
 			"flickr_images": []
 		},
@@ -490,27 +457,16 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/e0/a7/FNjvKlXW_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/e9/c9/T8CfiSYb_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/e0/a7/FNjvKlXW_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/e9/c9/T8CfiSYb_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
 			"presskit": null,
-<<<<<<< HEAD
 			"article_link": "https://en.wikipedia.org/wiki/Ratsat",
 			"wikipedia": "https://en.wikipedia.org/wiki/Ratsat",
 			"video_link": "https://www.youtube.com/watch?v=dLQ2tZEH6G0",
-=======
-			"article_link": "https:/en.wikipedia.org/wiki/Ratsat",
-			"wikipedia": "https:/en.wikipedia.org/wiki/Ratsat",
-			"video_link": "https:/www.youtube.com/watch?v=dLQ2tZEH6G0",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "dLQ2tZEH6G0",
 			"flickr_images": []
 		},
@@ -611,28 +567,16 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/8d/fc/0qdZMWWx_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/a7/ba/NBZSw3Ho_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/8d/fc/0qdZMWWx_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/a7/ba/NBZSw3Ho_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
-<<<<<<< HEAD
 			"presskit": "http://www.spacex.com/press/2012/12/19/spacexs-falcon-1-successfully-delivers-razaksat-satellite-orbit",
 			"article_link": "http://www.spacex.com/news/2013/02/12/falcon-1-flight-5",
 			"wikipedia": "https://en.wikipedia.org/wiki/RazakSAT",
 			"video_link": "https://www.youtube.com/watch?v=yTaIDooc8Og",
-=======
-			"presskit": "http:/www.spacex.com/press/2012/12/19/spacexs-falcon-1-successfully-delivers-razaksat-satellite-orbit",
-			"article_link": "http:/www.spacex.com/news/2013/02/12/falcon-1-flight-5",
-			"wikipedia": "https:/en.wikipedia.org/wiki/RazakSAT",
-			"video_link": "https:/www.youtube.com/watch?v=yTaIDooc8Og",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "yTaIDooc8Og",
 			"flickr_images": []
 		},
@@ -730,28 +674,16 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/d6/12/yxne8mMD_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/5c/36/gbDKf6Y7_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/d6/12/yxne8mMD_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/5c/36/gbDKf6Y7_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
-<<<<<<< HEAD
 			"presskit": "http://forum.nasaspaceflight.com/index.php?action=dlattach;topic=21869.0;attach=230821",
 			"article_link": "http://www.spacex.com/news/2013/02/12/falcon-9-flight-1",
 			"wikipedia": "https://en.wikipedia.org/wiki/Dragon_Spacecraft_Qualification_Unit",
 			"video_link": "https://www.youtube.com/watch?v=nxSxgBKlYws",
-=======
-			"presskit": "http:/forum.nasaspaceflight.com/index.php?action=dlattach;topic=21869.0;attach=230821",
-			"article_link": "http:/www.spacex.com/news/2013/02/12/falcon-9-flight-1",
-			"wikipedia": "https:/en.wikipedia.org/wiki/Dragon_Spacecraft_Qualification_Unit",
-			"video_link": "https:/www.youtube.com/watch?v=nxSxgBKlYws",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "nxSxgBKlYws",
 			"flickr_images": []
 		},
@@ -900,28 +832,16 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/00/2f/FhtEd0nB_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/d9/3e/FfrN88ry_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/00/2f/FhtEd0nB_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/d9/3e/FfrN88ry_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
-<<<<<<< HEAD
 			"presskit": "http://www.spacex.com/files/downloads/cots1-20101206.pdf",
 			"article_link": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_1",
 			"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_1",
 			"video_link": "https://www.youtube.com/watch?v=cdLITgWKe_0",
-=======
-			"presskit": "http:/www.spacex.com/files/downloads/cots1-20101206.pdf",
-			"article_link": "https:/en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_1",
-			"wikipedia": "https:/en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_1",
-			"video_link": "https:/www.youtube.com/watch?v=cdLITgWKe_0",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "cdLITgWKe_0",
 			"flickr_images": []
 		},
@@ -1041,28 +961,16 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/2b/8e/MYyHbnd2_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/fc/7a/r9ITwL12_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/2b/8e/MYyHbnd2_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/fc/7a/r9ITwL12_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
-<<<<<<< HEAD
 			"presskit": "https://www.nasa.gov/pdf/649910main_cots2_presskit_051412.pdf",
 			"article_link": "https://en.wikipedia.org/wiki/Dragon_C2%2B",
 			"wikipedia": "https://en.wikipedia.org/wiki/Dragon_C2%2B",
 			"video_link": "https://www.youtube.com/watch?v=tpQzDbAY7yI",
-=======
-			"presskit": "https:/www.nasa.gov/pdf/649910main_cots2_presskit_051412.pdf",
-			"article_link": "https:/en.wikipedia.org/wiki/Dragon_C2%2B",
-			"wikipedia": "https:/en.wikipedia.org/wiki/Dragon_C2%2B",
-			"video_link": "https:/www.youtube.com/watch?v=tpQzDbAY7yI",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "tpQzDbAY7yI",
 			"flickr_images": []
 		},
@@ -1166,11 +1074,7 @@
 						"mass_returned_kg": 905,
 						"mass_returned_lbs": 1995,
 						"flight_time_sec": 1728000,
-<<<<<<< HEAD
 						"cargo_manifest": "https://en.wikipedia.org/wiki/SpaceX_CRS-1#Payload"
-=======
-						"cargo_manifest": "https:/en.wikipedia.org/wiki/SpaceX_CRS-1#Payload"
->>>>>>> f875782 (Actualització)
 					},
 					{
 						"payload_id": "Orbcomm-OG2",
@@ -1216,28 +1120,16 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/52/09/eNvilptL_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/0b/33/2eLGEejP_o.png",
-=======
-			"mission_patch": "https:/images2.imgbox.com/52/09/eNvilptL_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/0b/33/2eLGEejP_o.png",
->>>>>>> f875782 (Actualització)
 			"reddit_campaign": null,
 			"reddit_launch": null,
 			"reddit_recovery": null,
 			"reddit_media": null,
-<<<<<<< HEAD
 			"presskit": "https://www.nasa.gov/pdf/694166main_SpaceXCRS-1PressKit.pdf",
 			"article_link": "https://www.nasa.gov/mission_pages/station/main/spacex-crs1-target.html",
 			"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-1",
 			"video_link": "https://www.youtube.com/watch?v=-Vk3hiV_zXU",
-=======
-			"presskit": "https:/www.nasa.gov/pdf/694166main_SpaceXCRS-1PressKit.pdf",
-			"article_link": "https:/www.nasa.gov/mission_pages/station/main/spacex-crs1-target.html",
-			"wikipedia": "https:/en.wikipedia.org/wiki/SpaceX_CRS-1",
-			"video_link": "https:/www.youtube.com/watch?v=-Vk3hiV_zXU",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "-Vk3hiV_zXU",
 			"flickr_images": []
 		},
@@ -1341,11 +1233,7 @@
 						"mass_returned_kg": 1370,
 						"mass_returned_lbs": 3020,
 						"flight_time_sec": 2160000,
-<<<<<<< HEAD
 						"cargo_manifest": "https://en.wikipedia.org/wiki/SpaceX_CRS-2#Payload"
-=======
-						"cargo_manifest": "https:/en.wikipedia.org/wiki/SpaceX_CRS-2#Payload"
->>>>>>> f875782 (Actualització)
 					}
 				]
 			},
@@ -1364,7 +1252,6 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/ef/39/FyZRYeOh_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/1b/b6/Z4oktZeR_o.png",
 			"reddit_campaign": null,
@@ -1375,18 +1262,6 @@
 			"article_link": "https://en.wikipedia.org/wiki/SpaceX_CRS-2",
 			"wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-2",
 			"video_link": "https://www.youtube.com/watch?v=ik0ElKl5kW4",
-=======
-			"mission_patch": "https:/images2.imgbox.com/ef/39/FyZRYeOh_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/1b/b6/Z4oktZeR_o.png",
-			"reddit_campaign": null,
-			"reddit_launch": "https:/www.reddit.com/r/space/comments/19gm5f/live_coverage_spacex_crs2_launch_to_the_iss/c8nvah4",
-			"reddit_recovery": null,
-			"reddit_media": null,
-			"presskit": "https:/www.nasa.gov/sites/default/files/files/Orb2_PRESS_KIT.pdf",
-			"article_link": "https:/en.wikipedia.org/wiki/SpaceX_CRS-2",
-			"wikipedia": "https:/en.wikipedia.org/wiki/SpaceX_CRS-2",
-			"video_link": "https:/www.youtube.com/watch?v=ik0ElKl5kW4",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "ik0ElKl5kW4",
 			"flickr_images": []
 		},
@@ -1507,7 +1382,6 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/89/bc/JcbcvuBI_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/91/27/VhC1TTYN_o.png",
 			"reddit_campaign": null,
@@ -1518,18 +1392,6 @@
 			"article_link": "http://www.parabolicarc.com/2013/09/29/falcon-9-launch-payloads-orbit-vandenberg/",
 			"wikipedia": "https://en.wikipedia.org/wiki/CASSIOPE",
 			"video_link": "https://www.youtube.com/watch?v=uFefasS6bhc",
-=======
-			"mission_patch": "https:/images2.imgbox.com/89/bc/JcbcvuBI_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/91/27/VhC1TTYN_o.png",
-			"reddit_campaign": null,
-			"reddit_launch": "http:/www.reddit.com/r/spacex/comments/1ndlay",
-			"reddit_recovery": null,
-			"reddit_media": null,
-			"presskit": "https:/spaceflightnow.com/falcon9/006/UpgradedF9DemoMission_PressKit.pdf",
-			"article_link": "http:/www.parabolicarc.com/2013/09/29/falcon-9-launch-payloads-orbit-vandenberg/",
-			"wikipedia": "https:/en.wikipedia.org/wiki/CASSIOPE",
-			"video_link": "https:/www.youtube.com/watch?v=uFefasS6bhc",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "uFefasS6bhc",
 			"flickr_images": []
 		},
@@ -1649,7 +1511,6 @@
 		},
 		"launch_success": true,
 		"links": {
-<<<<<<< HEAD
 			"mission_patch": "https://images2.imgbox.com/b5/1d/46Eo0yuu_o.png",
 			"mission_patch_small": "https://images2.imgbox.com/42/b0/vP0sk3d5_o.png",
 			"reddit_campaign": null,
@@ -1660,18 +1521,6 @@
 			"article_link": "https://www.nasaspaceflight.com/2013/12/spacex-falcon-9-v1-1-milestone-ses-8-launch/",
 			"wikipedia": "https://en.wikipedia.org/wiki/SES-8",
 			"video_link": "https://www.youtube.com/watch?v=aAj5xapImEs",
-=======
-			"mission_patch": "https:/images2.imgbox.com/b5/1d/46Eo0yuu_o.png",
-			"mission_patch_small": "https:/images2.imgbox.com/42/b0/vP0sk3d5_o.png",
-			"reddit_campaign": null,
-			"reddit_launch": "http:/www.reddit.com/r/spacex/comments/1ryy1n",
-			"reddit_recovery": null,
-			"reddit_media": null,
-			"presskit": "http:/www.spacex.com/sites/spacex/files/spacex_ses-8launch_presskit.pdf",
-			"article_link": "https:/www.nasaspaceflight.com/2013/12/spacex-falcon-9-v1-1-milestone-ses-8-launch/",
-			"wikipedia": "https:/en.wikipedia.org/wiki/SES-8",
-			"video_link": "https:/www.youtube.com/watch?v=aAj5xapImEs",
->>>>>>> f875782 (Actualització)
 			"youtube_id": "aAj5xapImEs",
 			"flickr_images": []
 		},
