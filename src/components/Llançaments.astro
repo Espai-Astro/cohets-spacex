@@ -1,10 +1,38 @@
 ---
-const resposta = await fetch('https://api.spacexdata.com/v3/launches?limit=12');
-const dades = await resposta.json();
-const dadesJSON = JSON.stringify(dades);
-//console.log("dadesJSON -->",dadesJSON);
+import type { Resposta } from '../types/typesApi';
+import TargetaCohet from './TargetaCohet.astro';
+
+const resposta = await fetch('https://api.spacexdata.com/v5/launches/query', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify({
+    query: {},
+    options: {
+      sort: {
+        date_unix: 'asc',
+      },
+      limit: 12,
+    },
+  }),
+});
+/* const dades = JSON.stringify(await resposta.json());
+console.log('dades -->', dades); */
+const { docs: cohets } = (await resposta.json()) as Resposta;
+console.log(cohets);
 ---
 
 <div class='grid gap-8 sm:grid-cols-2 lg:grid-cols-3'>
-  <article></article>
+  {
+    cohets.map((cohet) => (
+      <TargetaCohet
+        id={cohet.id}
+        imatge={cohet.links.patch.small}
+        detalls={cohet.details}
+        numeroLlançament={cohet.flight_number}
+        exit={cohet.success}
+      />
+    ))
+  }
 </div>
