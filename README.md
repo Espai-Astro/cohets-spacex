@@ -1,3 +1,3 @@
 # cohets-spacex
 
-Projecte en Astro API SpaceX
+Projecte per conèixer i practicar Astro
