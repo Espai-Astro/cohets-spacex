@@ -1,4 +1,4 @@
-https://github.com/Espai-Astro/.github.git<h1 align="center">Hola a tothom 👋</h1>
+<h1 align="center">Hola a tothom 👋</h1>
 <h3 align="center">Sóc en Jordi Llop (:yum:llopFilms)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-angular&label=Visites Espai Angular&color=0e75b6&style=flat" alt="llopfilms Espai Angular" /> </p>
@@ -13,7 +13,8 @@ https://github.com/Espai-Astro/.github.git<h1 align="center">Hola a tothom 👋<
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Angular" src="https://img.icons8.com/color/36/000000/angularjs.png"  width="45" height="45"/>
+<img alt="Astror" src="https://img.icons8.com/color/36/000000/astro.png"  width="45" height="45"/>
 <img alt="Visual Studio Code" src="https://img.icons8.com/fluent/36/000000/visual-studio-code-2019.png"/>
 </p>
 <div align="center">
+111
